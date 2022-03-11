@@ -19,18 +19,15 @@ bytes = random._urandom(1490)
 
 
 os.system("clear")
-os.system("figlet C.H.T")
+os.system("figlet wh1sky")
 
-print("İnstagram:@x_hack3r_x")
-print("Youtube:@x_hack3r_x")
-
-print("Confidance Ekibi Sunar...")
+print("İnstagram:@wh1sky")
 
 ip = input("IP Giriniz : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet x_hack3r_x")
+os.system("figlet wh1sky")
 print ("[                    ] 0% ")
 time.sleep(5)
 print ("[=====               ] 25%")
